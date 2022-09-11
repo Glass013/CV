@@ -643,6 +643,9 @@ footer .copyright{
  #banner3 .banner-box {
     width: 23%;
  }
+  #newsletter .form {
+    width: 75%;
+ }
 }
 
 @media (max-width: 477px) {
